@@ -1,0 +1,7 @@
+.orbit:first-child{
+  margin-top: 5vh;
+}
+.callout{
+  background-color: transparent;
+  border-radius: 0 0 .6rem .6rem;
+}
